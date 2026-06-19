@@ -1,4 +1,4 @@
-# Hi, I'm Gagan Chawla
+# Gagan Chawla
 
 AI product and GTM leader, builder, advisor, mentor, and angel investor.
 
