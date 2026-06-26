@@ -18,7 +18,7 @@ My current work explores three connected themes: autonomous enterprise IT, AI-na
 |---|---|---|---|
 | Autonomous IT intelligence | [AI Enterprise IT](https://aienterpriseit.com/market-intelligence/) | [ops-vision-quest](https://github.com/gagankcai-jpg/ops-vision-quest) | AIOps, observability, IT Ops, agentic automation, SecOps |
 | AI-native GTM intelligence | [GTMLens](https://gtmlens.com/) | [gtmlens](https://github.com/gagankcai-jpg/gtmlens) | Vendor tracking, funding signals, GTM engineering, comparisons |
-| Agentic workflow infrastructure | [Agent Skill Exchange](https://agentskillexchange.com/) | [agentskillexchange/skills](https://github.com/agentskillexchange/skills) | Reusable agent skills, compatibility, source visibility, trust context |
+| Agentic workflow infrastructure | [Agent Skill Exchange](https://agentskillexchange.com/) | [skills](https://github.com/agentskillexchange/skills) · [ase-showcase](https://github.com/agentskillexchange/ase-showcase) | Reusable agent skills, compatibility, source visibility, trust context |
 
 ## Featured work
 
@@ -45,19 +45,20 @@ Independent analyst coverage of the AI-native GTM tooling landscape.
 
 ### Agent Skill Exchange
 
-A curated open catalog for reusable AI agent skills and workflows.
+A curated, trusted catalog of reusable AI agent skills and workflows.
 
 - Helps teams discover skills across Codex, Claude Code, GitHub Copilot, Gemini, OpenClaw, Cursor, MCP, and related agent ecosystems
 - Emphasizes compatibility, source visibility, installation guidance, and trust context
 - Supports reusable workflows for coding agents, automation, research, data work, and developer productivity
+- Built as an autonomous system with human-in-the-loop review; the engineering case study covers the architecture, the GPT-driven cron pipeline, and the trust gates
 
-[Live site](https://agentskillexchange.com/) | [Repository](https://github.com/agentskillexchange/skills)
+[Live site](https://agentskillexchange.com/) | [Catalog](https://github.com/agentskillexchange/skills) | [Engineering case study](https://github.com/agentskillexchange/ase-showcase)
 
 ## Background
 
 I have led product, GTM, customer, partner, and engineering programs across enterprise software, cloud, observability, security, AIOps, and AI-powered SaaS.
 
-Highlights from my LinkedIn profile:
+Highlights:
 
 - Strategic Advisor for AI Product and GTM, mentoring founders and leadership teams on AI productization, PMF, commercialization, pricing, and enterprise adoption
 - 24+ years at Oracle across Enterprise and Cloud Management leadership roles
